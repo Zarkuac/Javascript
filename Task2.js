@@ -3,3 +3,5 @@ let onlyNumbers = array.filter(
     element => typeof element === 'number'
 );
 console.log(onlyNumbers);
+
+/* filter-ის გამოყენებით გაფილთრეთ და გამოიტანეთ მარტო ციფრები */
